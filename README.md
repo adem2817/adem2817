@@ -2,7 +2,7 @@
 
 # 💫About Me
 💻 **Software Engineer**: I'm a passionate software engineer from Istanbul<br>
-🌱 **Currently Learning/Improving**: Expanding my skills in **Spring boot, React** <br>
+🌱 **Currently Learning/Improving**: Improving my skills in **Spring boot, React** <br>
 🤖 **Areas of Interest**: Web/Desktop Application Development <br>
 📫 How to reach me **adem2817@gmail.com** <br>
 💬 Ask me about **Java** <br>
