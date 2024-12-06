@@ -42,9 +42,9 @@ Software Developer specializing in backend and web development. Experienced with
 
 # 📊GitHub Stats 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem2817&show_icons=true&locale=en&layout=compact&theme=dark" alt="adem2817" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem2817&show_icons=true&locale=en&layout=compact&theme=white" alt="adem2817" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adem2817&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="adem2817" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adem2817&show_icons=true&locale=en&theme=white&include_all_commits=true" alt="adem2817" /></p>
 
 <hr>
 
